@@ -2,7 +2,7 @@
 
 A pub sub communication model distribute messages on a one-to-many model. A publisher sends a message via a subject to consumers listening or subscribed to a subject on NATS broker.
 
-![Pub Sub Model](../assets/img/pub-sub.png
+![Pub Sub Model](../assets/img/pub-sub.png)
 
 ## Examples
 
