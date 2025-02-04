@@ -4,7 +4,7 @@ This project demonstrates the use of NATS messaging system. For details of NATS 
 
 ## Content
 
-* [Pub Sub](./pubsub/doc.md)
+* [Pub Sub](./pubsub/doc.mdq)
 
 
 ## Disclaimer
