@@ -1,12 +1,10 @@
-# Overview
+# Learn NATS
 
-This project demonstrates the use of NATS messaging system. For details of NATS please refer to the [official documentation](https://docs.nats.io/).
+This project provides working examples and references to information about configure NATS servers.
 
 ## Content
 
-* [Pub Sub](./pubsub/doc.mdq)
-* [Request Reply](./reqreply/doc.md)
-
+* [Docker deployment working examples](./deployments/docker/doc.md)
 
 ## Disclaimer
 
@@ -18,7 +16,7 @@ This project is ongoing and may undergo changes without prior notification. By u
 
 Unless otherwise specified, this project is copyrighted as follows:
 
-Copyright 2024 The Contributors to go-nats
+Copyright 2024 The Contributors to learn-nats
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
 
